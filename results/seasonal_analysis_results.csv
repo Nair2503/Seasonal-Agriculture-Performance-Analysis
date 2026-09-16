@@ -1,1 +1,4 @@
-
+Season,Avg_Yield,Avg_Production,Avg_Revenue,Avg_Cost,Avg_Profit,Avg_Water,Avg_Water_Efficiency,Avg_Disease_Risk,Profit_Margin_%
+Kharif,5.63,46.31,710719.06,531804.41,178914.65,6102.2,5.89,54.47,25.17
+Rabi,5.04,41.49,601526.05,513836.58,87689.47,5846.99,5.19,40.48,14.58
+Zaid,4.64,38.89,519171.9,543976.73,-24804.82,6419.89,4.41,38.22,-4.78
